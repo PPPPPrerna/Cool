@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 38.247 s <<< FAILURE! - in TestSuite
+pack.Mavend.UisTest.udse  Time elapsed: 29.883 s  <<< FAILURE!
+java.lang.RuntimeException: Unexpected result for screenshot command: null
+	at pack.Mavend.UisTest.udse(UisTest.java:29)
+
